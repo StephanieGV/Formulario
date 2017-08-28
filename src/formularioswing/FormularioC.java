@@ -70,7 +70,7 @@ public class FormularioC extends JFrame implements ActionListener {
    
         
     }
-    
+    //Ubicacion de los campos
     private JPanel Ubicacion(){
         JPanel centro = new JPanel();
         centro.setLayout(new BoxLayout(centro, BoxLayout.Y_AXIS));
